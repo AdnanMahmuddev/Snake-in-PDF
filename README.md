@@ -39,5 +39,7 @@ In short: PDF + JavaScript + forms = a playable game.
 ## 📥 Installation & Usage
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/snake-in-pdf.git
+   git clone https://github.com/AdnanMahmuddev/snake-in-pdf.git
    cd snake-in-pdf
+   python snake_pdf.py
+
